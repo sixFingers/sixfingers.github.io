@@ -1,0 +1,64 @@
+- company: Self employed
+  startDate: 2016-05-01
+  endDate: today
+  position: Everything
+  website: https://sixfingers.github.io/
+  summary: >
+    I'm currently looking for new opportunities, while working on a personal project in the videogame space. Incidentally, i moved to France.
+  highlights:
+    - Took some time to do some serious game development. A dream i have since i was a child, working on a game offers me plenty of challenges outside my comfort zone
+    - Enjoying doing everything myself, i play with a lot of languages and technologies. For example, Blender scripting through Python and Flash extension development through Javascript.
+    - Currently exploring with great passion Erlang and Elixir, with the good excuse of developing a multiplayer game server.
+    - Learning French.
+
+- company: Setonix
+  startDate: 2014-09-01
+  endDate: 2016-03-01
+  position: Lead Developer
+  website: http://www.setonix.it/
+  summary: >
+    Setonix is a well-known reality in Italy in the seo, web marketing and media publishing space. In this context, coding was just the way we expressed promotional campaigns and activities.
+  highlights:
+    - After a 6 months pause i took to ponder on my career, this experience helped me consolidate my skills in client management.
+    - While code played just a part in my daily routine, i had the occasion to design and supervision the development of 3 mobile apps, 2 of them fully cross-platform. After years in the web space, it was refreshing to do some native development.
+    - Given the nature of the company's projects, i developed a growing interest in microservices and IoT.
+
+- company: Gild
+  startDate: 2012-10-05
+  endDate: 2014-02-01
+  position: Frontend Developer
+  website: https://www.gild.com/
+  summary: >
+    Gild is an innovative, increasingly pervasive reality in the HR / Recruiting space. Through exploitation of big-data, Gild succeeds in automating some of recruiting's most critical bottlenecks. Gild's platform is a complete set of b2b applications aimed at disrupting today's recruiting pipeline.
+  highlights:
+    - Experienced life and work in San Francisco, during a 3 months stay at the central headquarter. Greatly improved my English as my daily work was English-only, both written and spoken
+    - Developed a solid agile approach to project management and software development
+    - Worked side by side with other great developers, exploring big-data and cloud oriented development, in a moment were both where still cutting-edge
+    - Directly experienced hacking on an infrastructure level, leveraging a wide variety of technologies and making creative use of them (ElasticSearch, MongoDb, Redis, Amazon AWS)
+    - Developed a rich set of devops-related skills and mindset
+
+- company: The MadBox
+  startDate: 2008-07-21
+  endDate: 2012-02-01
+  position: Lead developer
+  website: http://www.themadbox.com/
+  summary: >
+    TheMadBox is a top Italian agency, offering digital services in a variety of fields: visual fxs and production for television and out-of-home commercials, digital installations, design and implementation of interactive stands in fairs and meetups, together with a complete offer in the web space.
+  highlights:
+    - Having worked for the most part with multinational brands, i have experienced all of the criticalities related to deployment of projects which are part of an international schedule (short-cycle design and deploy, crunch-times and daily pressure, coordination of resources distributed in more than one country).
+    - Directly interfaced with foreign (English speaking) big clients in the automotive, fashion and entertainment industries (Kia, Disney, Chanel are some of them)
+    - Led small and bigger teams (up to 10 brains) while working on a wide variety of technologies and contexts (web, kiosk, outside)
+
+- company: Metatron Group
+  startDate: 2008-02-01
+  endDate: 2011-06-01
+  position: Full stack developer
+  website: http://www.metatrongroup.com/
+  summary: >
+    Metatron Group offers an all-round service to musicians and artists, managing everything from rights to distribution. Taking advantage from its strong relationship with some of the biggest editorial groups in Italy, Metatron Group was able to work with some of the greatest artists of today's Italian scene.
+  highlights:
+    - Design, development and maintenance of Rolling Stone Magazine's platform in Italy.
+    - Games, installations and highly interactive browser experiences for some of today's big names in Italian music scene.
+    - Full-stack approach which led me to supervision big projects from the ground up. Front-end and back-end tasks blended in my daily routine.
+    - Direct experience of the inner workings of the editorial market.
+    - For the most part, i was directly involved in the relationship with the client, often writing the first draft for our projects. From there i derived a practical approach to coding which is never separated from the client's realistic needs.

@@ -1,0 +1,48 @@
+- name: Frontend Development
+  level: Expert
+  keywords:
+    - HTML
+    - CSS (Less, Sass)
+    - Javascript
+    - React, Backbone, Angular
+    - Gulp, Grunt, Bower
+
+- name: Backend Development
+  level: Expert
+  keywords:
+    - PHP (Laravel, Symfony)
+    - Node.js
+    - Golang
+    - Elixir
+
+- name: Database management
+  level: Expert
+  keywords:
+    - MySQL
+    - PostgreSQL
+    - Schemaless
+    - Elastic Search
+
+- name: Game / interactivity
+  level: Advanced
+  keywords:
+    - Actionscript
+    - Lua
+    - C# (Unity)
+    - C
+
+- name: UI / UX
+  level: Advanced
+  keywords:
+    - Theory of graphic composition and interface accessibility
+    - Typography
+    - Adobe Suite
+
+- name: Sysadmin / Devops
+  level: Intermediate
+  keywords:
+    - Unix bash scripting
+    - Chef, Puppet
+    - Jenkins
+
+

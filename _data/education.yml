@@ -1,0 +1,25 @@
+- institution: Liceo Classico Virgilio
+  area: Literature and Humanities
+  studyType: High School Degree
+  startDate: 1996-09-01
+  endDate: 2001-06-01
+  gpa: 84/100
+  courses:
+    - Greek
+    - Latin
+    - Italian literature
+    - World literatures
+
+- institution: NABA - Nuova Accademia di Belle Arti
+  area: Art and Design
+  studyType: Bachelor +5
+  startDate: 2001-09-06
+  endDate: 2005-09-06
+  gpa: 108/110
+  courses:
+    - Digital animation
+    - Typography
+    - Project management
+    - Aesthetics and semantics
+    - Graphic design
+    - Media
