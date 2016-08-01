@@ -4,7 +4,7 @@
     - HTML
     - CSS (Less, Sass)
     - Javascript
-    - React, Backbone, Angular
+    - Backbone, React, Angular
     - Gulp, Grunt, Bower
 
 - name: Backend Development
@@ -29,7 +29,6 @@
     - Actionscript
     - Lua
     - C# (Unity)
-    - C
 
 - name: UI / UX
   level: Advanced
